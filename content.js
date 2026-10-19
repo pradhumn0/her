@@ -6,15 +6,16 @@
    - Use ’ or ' carefully: if your text has a straight apostrophe, use ’ instead.
    ========================================================== */
 const CONTENT = {
-  name: "[HER NAME]",
-  nickname: "[YOUR NICKNAME FOR HER]",
+  name: "Princess",
+  nickname: "Baby",
   greeting: "Happy Birthday",
-  tagline: "A little world made just for you",
-  openButton: "Open your surprise",
+  tagline: "Because you exist, my world is a little more beautiful",
+  openButton: "Open your surprise ♡",
 
-  message: { title: "A birthday message", paragraphs: [
-    "[WRITE YOUR OPENING BIRTHDAY MESSAGE HERE]",
-    "[ADD A SECOND PARAGRAPH IF YOU LIKE]"
+  message: { title: "Happy Birthday to the girl who became one of the most beautiful parts of my life ❤️", paragraphs: [
+    "Kanak, if I could give you one thing for your birthday, it would be the ability to see yourself through my eyes, even for just a minute. You would see how beautiful your smile is, how special your heart is, how your little habits make me smile, and how much happiness your existence brings into my life.
+",
+    "So today, I made you this little world. Every page, every message, every tiny surprise has a little piece of my heart in it. Take your time exploring it, Princess. This is my way of reminding you that you are loved, appreciated, and celebrated — not just today, but on all the ordinary days too. 💗"
   ]},
 
   special: { title: "Why you are so special", sub: "[OPTIONAL SUBTITLE]", cards: [
